@@ -1,73 +1,85 @@
 {
-  "posts": [
-    { 
-        "id" : "1",
-        "username" : "Ashiq Mehmood",
-        "score"  :    16772,
-         "osm"   :   "288837"
+  "posts":  [
+  {
+       "id": "1",
+       "username": "Ashiq Mehmood",
+       "score": 16772,
+       "osm": "288837",
+       "camp": "101"
+
     },
     {
-       "id" : "2",
-     "username" : "Ahmed Jibran",
-        "score"  :    7945,
-         "osm"   :   "199833"
-    },
-    { 
-       "id" : "3",
-     "username" : "Adam James",
-        "score"  :    7945,
-         "osm"   :   "736251"   
+       "id": "2",
+       "username": "Ahmed Jibran",
+       "score": 7854,
+       "osm": "199833",
+       "camp": "102"
     },
     {
-       "id":"4",
-     "username" : "Pogba jack",
-        "score"  :    500,
-         "osm"   :   "847623" 
+       "id": "3",
+       "username": "Adam James",
+       "score": 7854,
+       "osm": "736251",
+       "camp": "88"
     },
     {
-       "id" : "5",
-     "username" : "Miketos kim",
-        "score"  :    729,
-         "osm"   :   "354621"   
+       "id": "4",
+       "username": "Pogba jack",
+       "score": 500,
+       "osm": "847623",
+       "camp": "55"
     },
     {
-      "id" : "6",
-     "username" : "Lary Hilbert",
-        "score"  :    551,
-         "osm"   :   "999871"   
+       "id": "5",
+       "username": "Miketos kim",
+       "score": 729,
+       "osm": "354621",
+       "camp": "99"
     },
     {
-      "id" : "7",
-     "username" : "Fedrich Benedict",
-        "score"  :    2001,
-         "osm"   :   "786529"   
+       "id": "6",
+       "username": "Lary Hilbert",
+       "score": 551,
+       "osm": "999871",
+       "camp": "67"
     },
     {
-      "id" : "8",
-     "username" : "Weesly Fuller",
-        "score"  :    99,
-         "osm"   :   "897876"   
+       "id": "7",
+       "username": "Fedrich Benedict",
+       "score": 2001,
+       "osm": "786529",
+       "camp": "02"
     },
     {
-      "id" : "9",
-     "username" : "Hamburger Sami",
-        "score"  :    22,
-         "osm"   :   "556163"   
+       "id": "8",
+       "username": "Weesly Fuller",
+       "score": 99,
+       "osm": "897876",
+       "camp": "11"
     },
     {
-       "id" : "10",
-     "username" : "Silsil Pandey",
-        "score"  :    67,
-         "osm"   :   "500163"   
+       "id": "9",
+       "username": "Hamburger Sami",
+       "score": 22,
+       "osm": "556163",
+       "camp": "24"
     },
     {
-      "id" : "11",
-     "username" : "Kovid lib Manjoc",
-        "score"  :    2,
-         "osm"   :   "101031"   
+       "id": "10",
+       "username": "Silsil Pandey",
+       "score": 67,
+       "osm": "500163"
+    },
+    {
+       "id": "11",
+       "username": "Kovid lib Manjoc",
+       "score": 2,
+       "osm": "101031",
+       "camp": "77"
     }
 
-  ],
+ ]
+  ,
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
