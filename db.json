@@ -101,7 +101,7 @@
   ,
   
   "profile": 
-    {   "id": 0 ,
+    {   "id": "01" ,
         "username": "John Williams",
         "score" : 4999,
         "osm" : "244562",
