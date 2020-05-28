@@ -101,16 +101,16 @@
   ,
   
   "profile": {
-  	"id": 0 ,
+  	      "id": 0 ,
         "username": "John Williams",
         "score" : 4999,
-        "osm" : 244562,
-        "camp" : 101,
+        "osm" : "244562",
+        "camp" : "101",
         "campname" : "Recycle"
   },
   
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
-  ],
+  ]
 }
