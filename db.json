@@ -5,7 +5,8 @@
        "username": "Ashiq Mehmood",
        "score": 16772,
        "osm": "288837",
-       "camp": "101"
+       "camp": "101",
+       "campname": "Recycle"
 
     },
     {
@@ -13,78 +14,103 @@
        "username": "Ahmed Jibran",
        "score": 7854,
        "osm": "199833",
-       "camp": "102"
+       "camp": "102",
+       "campname": "Fire"
     },
     {
        "id": "3",
        "username": "Adam James",
        "score": 7854,
        "osm": "736251",
-       "camp": "88"
+       "camp": "88",
+        "campname": "Water"
     },
     {
        "id": "4",
        "username": "Pogba jack",
        "score": 500,
        "osm": "847623",
-       "camp": "55"
+       "camp": "55",
+        "campname": "Earth"
     },
     {
        "id": "5",
        "username": "Miketos kim",
        "score": 729,
        "osm": "354621",
-       "camp": "99"
+       "camp": "99",
+        "campname": "Mars"
     },
     {
        "id": "6",
        "username": "Lary Hilbert",
        "score": 551,
        "osm": "999871",
-       "camp": "67"
+       "camp": "67",
+        "campname": "Nebula"
     },
     {
        "id": "7",
        "username": "Fedrich Benedict",
        "score": 2001,
        "osm": "786529",
-       "camp": "02"
+       "camp": "02",
+        "campname": "Galaxy"
     },
     {
        "id": "8",
        "username": "Weesly Fuller",
        "score": 99,
        "osm": "897876",
-       "camp": "11"
+       "camp": "11",
+        "campname": "Stars"
     },
     {
        "id": "9",
        "username": "Hamburger Sami",
        "score": 22,
        "osm": "556163",
-       "camp": "24"
+       "camp": "24",
+        "campname": "Boomerang"
     },
     {
        "id": "10",
        "username": "Silsil Pandey",
        "score": 67,
-       "osm": "500163"
+       "osm": "500163",
+        "campname": "Maveric"
     },
     {
        "id": "11",
        "username": "Kovid lib Manjoc",
        "score": 2,
        "osm": "101031",
-       "camp": "77"
+       "camp": "77",
+        "campname": "Space"
+    },
+    {
+    	 "id": "12" ,
+        "username": "John Williams",
+        "score" : 4999,
+        "osm" : "244562",
+        "camp" : "101",
+        "campname" : "Recycle"
     }
 
  ]
   ,
+  
+  "profile": {
+  	"id": 0 ,
+        "username": "John Williams",
+        "score" : 4999,
+        "osm" : 244562,
+        "camp" : 101,
+        "campname" : "Recycle"
+  },
+  
   "comments": [
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
