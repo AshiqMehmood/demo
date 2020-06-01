@@ -101,12 +101,13 @@
   ,
   
   "profile":[ 
-    {   "id": "01" ,
-        "username": "John Williams",
-        "score" : 4999,
-        "osm" : "244562",
-        "camp" : "101",
-        "campname" : "Recycle"
+    {
+       "id": "7",
+       "username": "Fedrich Benedict",
+       "score": 2001,
+       "osm": "786529",
+       "camp": "02",
+        "campname": "Galaxy"
     }]
   ,
   
