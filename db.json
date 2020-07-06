@@ -2,69 +2,69 @@
   "posts": [
     { 
         "id" : "1",
-        "username" : "Ashiq Mehmood",
+        "display_name" : "Ashiq Mehmood",
         "score"  :    16772,
-         "osm"   :   "288837"
+         "osm_id"   :   "288837"
     },
     {
        "id" : "2",
-     "username" : "Ahmed Jibran",
+     "display_name" : "Ahmed Jibran",
         "score"  :    7945,
-         "osm"   :   "199833"
+         "osm_id"   :   "199833"
     },
     { 
        "id" : "3",
-     "username" : "Adam James",
+     "display_name" : "Adam James",
         "score"  :    7945,
-         "osm"   :   "736251"   
+         "osm_id"   :   "736251"   
     },
     {
        "id":"4",
-     "username" : "Pogba jack",
+     "display_name" : "Pogba jack",
         "score"  :    500,
-         "osm"   :   "847623" 
+         "osm_id"   :   "847623" 
     },
     {
        "id" : "5",
-     "username" : "Miketos kim",
+     "display_name" : "Miketos kim",
         "score"  :    729,
-         "osm"   :   "354621"   
+         "osm_id"   :   "354621"   
     },
     {
       "id" : "6",
-     "username" : "Lary Hilbert",
+     "display_name" : "Lary Hilbert",
         "score"  :    551,
-         "osm"   :   "999871"   
+         "osm_id"   :   "999871"   
     },
     {
       "id" : "7",
-     "username" : "Fedrich Benedict",
+     "display_name" : "Fedrich Benedict",
         "score"  :    2001,
-         "osm"   :   "786529"   
+         "osm_id"   :   "786529"   
     },
     {
       "id" : "8",
-     "username" : "Weesly Fuller",
+     "display_name" : "Weesly Fuller",
         "score"  :    99,
-         "osm"   :   "897876"   
+         "osm_id"   :   "897876"   
     },
     {
       "id" : "9",
-     "username" : "Hamburger Sami",
+     "display_name" : "Hamburger Sami",
         "score"  :    22,
-         "osm"   :   "556163"   
+         "osm_id"   :   "556163"   
     },
     {
        "id" : "10",
-     "username" : "Silsil Pandey",
+     "display_name" : "Silsil Pandey",
         "score"  :    67,
-         "osm"   :   "500163"   
+         "osm_id"   :   "500163"   
     },
     {
       "id" : "11",
-     "username" : "Kovid lib Manjoc",
+     "name" : "Kovid lib Manjoc",
         "score"  :    2,
-         "osm"   :   "101031"   
+         "osm_id"   :   "101031"   
     }
 
   ],
