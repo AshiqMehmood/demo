@@ -1,6 +1,5 @@
 {
-  "posts": {
-  "Campaign": [
+  "campaign": [
     { 
         "id" : "1",
         "display_name" : "Albert Bernolli",
@@ -66,7 +65,7 @@
      "display_name" : "Kovid lib Manjoc",
         "score"  :    2,
         "osm_id"   :   "220163"
-    }]},
+    }],
   
   "profile":[ 
     {
