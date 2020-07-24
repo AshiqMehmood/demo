@@ -39,7 +39,7 @@
     {
       "id" : "7",
      "display_name" : "Fedrich Benedict",
-        "score"  :    2001,
+        "score"  :    22001,
          "osm_id"   :   "786529"   
     },
     {
@@ -71,7 +71,7 @@
     {
        "id": "7",
        "name": "Fedrich Benedict",
-       "score": 2001,
+       "score": 22001,
        "osm_id": "786529",
        "camp": "02",
         "campaign_name": "Galaxy"
