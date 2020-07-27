@@ -2,13 +2,13 @@
   "campaign": [
     { 
         "id" : "1",
-        "display_name" : "Albert Bernolli",
+        "display_name" : "Albert Bernoulli",
         "score"  :    1162,
          "osm_id"   :   "288837"
     },
     {
        "id" : "2",
-     "display_name" : "Amal Joseph",
+     "display_name" : "Harry Kane",
         "score"  :   10945,
          "osm_id"   :   "199833"
     },
@@ -50,19 +50,19 @@
     },
     {
       "id" : "9",
-     "display_name" : "Hamburger Sami",
+     "display_name" : "Roberto Carlos",
         "score"  :    87722,
          "osm_id"   :   "556163"   
     },
     {
        "id" : "10",
-     "display_name" : "Silsil Pandey",
+     "display_name" : "Deigo Fernandez",
         "score"  :    647,
          "osm_id"   :   "500163"   
     },
     {
       "id" : "11",
-     "display_name" : "Kovid lib Manjoc",
+     "display_name" : "David villa",
         "score"  :    12442,
         "osm_id"   :   "220163"
     }],
